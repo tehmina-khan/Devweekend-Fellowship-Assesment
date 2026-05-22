@@ -13,14 +13,14 @@ If Python is not installed, download it from: https://www.python.org/downloads/
 
 **1. Download or clone the project files into a folder:**
 
-Devweekend-Fellowship/
+Devweekend-Fellowship-Assesment/
   main.py
   db.py
   README.md
 
 **2. Open a terminal and navigate into that folder:**
 
-cd path/to/Devweekend-Fellowship
+cd path/to/Devweekend-Fellowship-Assesment
 
 
 **3. Run the app:**
